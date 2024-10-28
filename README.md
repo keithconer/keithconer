@@ -1,7 +1,7 @@
-- It's @keithconer👋 What's up ya'll? 
+# It's @keithconer👋 What's up ya'll? 
 - Let's create websites together!
 - 📫 [keithtwostepsahead.netlify.app](https://keithtwostepsahead.netlify.app/)
-- 😄 He/Him
+
 
 
 <!---
