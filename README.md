@@ -1,6 +1,4 @@
-# It's @keithconer👋 What's up ya'll? 
-- Let's create websites together!
-- 📫 [keithtwostepsahead.netlify.app](https://keithtwostepsahead.netlify.app/)
+📫 [keithtwostepsahead.netlify.app](https://keithtwostepsahead.netlify.app/)
 
 
 
